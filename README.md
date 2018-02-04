@@ -1,0 +1,2 @@
+# lcb
+show web detail
